@@ -1,0 +1,58 @@
+
+{
+  "school_id": "CVSS001",
+  "school_name": "Cedar Valley Secondary School",
+  "school_type": "Public Secondary School",
+  "province": "British Columbia",
+  "country": "Canada",
+  "academic_year": "2026-2027",
+  "grades_offered": [8, 9, 10, 11, 12],
+  "principal": "Dr. Maya Thompson",
+  "vice_principal": "Mr. Daniel Chen",
+  "language_of_instruction": "English",
+  "school_schedule": {
+    "days": "Monday to Friday",
+    "start_time": "08:30",
+    "end_time": "15:00",
+    "periods": [
+      {
+        "name": "Period 1",
+        "start": "08:30",
+        "end": "09:55"
+      },
+      {
+        "name": "Period 2",
+        "start": "10:00",
+        "end": "11:25"
+      },
+      {
+        "name": "Lunch",
+        "start": "11:25",
+        "end": "12:10"
+      },
+      {
+        "name": "Period 3",
+        "start": "12:10",
+        "end": "13:35"
+      },
+      {
+        "name": "Period 4",
+        "start": "13:40",
+        "end": "15:00"
+      }
+    ]
+  },
+  "facilities": [
+    "Library",
+    "Gymnasium",
+    "Science Laboratories",
+    "Computer Labs",
+    "Counselling Office",
+    "Learning Support Centre"
+  ],
+  "contact": {
+    "email": "office@cedarvalley.example.test",
+    "phone": "604-555-0100"
+  },
+  "access": "public"
+}
