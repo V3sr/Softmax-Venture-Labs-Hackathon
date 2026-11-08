@@ -1,0 +1,42 @@
+
+[
+  {
+    "service_id": "S001",
+    "name": "Academic Counselling",
+    "description": "Support with course selection, graduation planning and academic concerns.",
+    "contact_staff_id": "C001",
+    "location": "Counselling Office",
+    "access": "public"
+  },
+  {
+    "service_id": "S002",
+    "name": "Career and Post-Secondary Planning",
+    "description": "Information about post-secondary applications, career exploration and scholarships.",
+    "contact_staff_id": "C001",
+    "location": "Counselling Office",
+    "access": "public"
+  },
+  {
+    "service_id": "S003",
+    "name": "Learning Support",
+    "description": "Academic accommodations and additional learning assistance for eligible students.",
+    "contact_staff_id": "C001",
+    "location": "Learning Support Centre",
+    "access": "public"
+  },
+  {
+    "service_id": "S004",
+    "name": "Library Services",
+    "description": "Access to books, research resources and study spaces.",
+    "location": "School Library",
+    "access": "public"
+  },
+  {
+    "service_id": "S005",
+    "name": "Student Wellness Support",
+    "description": "Confidential guidance and referrals for student well-being.",
+    "contact_staff_id": "C001",
+    "location": "Counselling Office",
+    "access": "public"
+  }
+]
