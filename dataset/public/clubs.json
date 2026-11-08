@@ -1,0 +1,48 @@
+
+[
+  {
+    "club_id": "CL001",
+    "name": "Robotics Club",
+    "description": "Students build and program robots for school projects and competitions.",
+    "meeting_day": "Wednesday",
+    "meeting_time": "15:15",
+    "advisor_staff_id": "T006",
+    "access": "public"
+  },
+  {
+    "club_id": "CL002",
+    "name": "Badminton Club",
+    "description": "Recreational badminton practices and school tournaments.",
+    "meeting_day": "Tuesday",
+    "meeting_time": "15:15",
+    "advisor_staff_id": "T005",
+    "access": "public"
+  },
+  {
+    "club_id": "CL003",
+    "name": "Debate Club",
+    "description": "Public speaking, structured debates and communication skills.",
+    "meeting_day": "Thursday",
+    "meeting_time": "15:15",
+    "advisor_staff_id": "T001",
+    "access": "public"
+  },
+  {
+    "club_id": "CL004",
+    "name": "Environmental Club",
+    "description": "Student-led sustainability and environmental awareness projects.",
+    "meeting_day": "Monday",
+    "meeting_time": "15:15",
+    "advisor_staff_id": "T002",
+    "access": "public"
+  },
+  {
+    "club_id": "CL005",
+    "name": "Student Council",
+    "description": "Student leadership, event planning and school community initiatives.",
+    "meeting_day": "Friday",
+    "meeting_time": "12:15",
+    "advisor_staff_id": "T004",
+    "access": "public"
+  }
+]
