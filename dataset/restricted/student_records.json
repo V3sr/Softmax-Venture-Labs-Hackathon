@@ -1,0 +1,81 @@
+
+[
+  {
+    "student_id": "CV1001",
+    "first_name": "Ava",
+    "last_name": "Singh",
+    "grade_level": 10,
+    "date_of_birth": "2011-04-18",
+    "enrolment_status": "Active",
+    "school_email": "cv1001@students.cedarvalley.example.test",
+    "guardian_name": "Priya Singh",
+    "guardian_email": "guardian1001@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1002",
+    "first_name": "Noah",
+    "last_name": "Chen",
+    "grade_level": 10,
+    "date_of_birth": "2011-07-09",
+    "enrolment_status": "Active",
+    "school_email": "cv1002@students.cedarvalley.example.test",
+    "guardian_name": "Mei Chen",
+    "guardian_email": "guardian1002@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1003",
+    "first_name": "Sofia",
+    "last_name": "Martinez",
+    "grade_level": 11,
+    "date_of_birth": "2010-02-23",
+    "enrolment_status": "Active",
+    "school_email": "cv1003@students.cedarvalley.example.test",
+    "guardian_name": "Elena Martinez",
+    "guardian_email": "guardian1003@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1004",
+    "first_name": "Liam",
+    "last_name": "Wilson",
+    "grade_level": 11,
+    "date_of_birth": "2010-11-05",
+    "enrolment_status": "Active",
+    "school_email": "cv1004@students.cedarvalley.example.test",
+    "guardian_name": "Sarah Wilson",
+    "guardian_email": "guardian1004@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1005",
+    "first_name": "Emily",
+    "last_name": "Park",
+    "grade_level": 12,
+    "date_of_birth": "2009-05-14",
+    "enrolment_status": "Active",
+    "school_email": "cv1005@students.cedarvalley.example.test",
+    "guardian_name": "Grace Park",
+    "guardian_email": "guardian1005@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1006",
+    "first_name": "Ethan",
+    "last_name": "Brown",
+    "grade_level": 12,
+    "date_of_birth": "2009-09-27",
+    "enrolment_status": "Active",
+    "school_email": "cv1006@students.cedarvalley.example.test",
+    "guardian_name": "Michael Brown",
+    "guardian_email": "guardian1006@example.test",
+    "assigned_counsellor_id": "C001",
+    "access": "restricted"
+  }
+]
