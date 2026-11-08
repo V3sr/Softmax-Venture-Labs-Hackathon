@@ -1,0 +1,83 @@
+
+[
+  {
+    "course_id": "ELA10",
+    "course_name": "English Language Arts 10",
+    "grade_level": 10,
+    "teacher_id": "T001",
+    "credits": 4,
+    "description": "Reading, writing, communication and literary analysis.",
+    "prerequisites": [],
+    "access": "public"
+  },
+  {
+    "course_id": "SC10",
+    "course_name": "Science 10",
+    "grade_level": 10,
+    "teacher_id": "T002",
+    "credits": 4,
+    "description": "Biology, chemistry, physics and Earth science concepts.",
+    "prerequisites": [],
+    "access": "public"
+  },
+  {
+    "course_id": "FMP10",
+    "course_name": "Foundations of Mathematics and Pre-Calculus 10",
+    "grade_level": 10,
+    "teacher_id": "T003",
+    "credits": 4,
+    "description": "Algebra, functions, measurement and mathematical reasoning.",
+    "prerequisites": [],
+    "access": "public"
+  },
+  {
+    "course_id": "SS10",
+    "course_name": "Social Studies 10",
+    "grade_level": 10,
+    "teacher_id": "T004",
+    "credits": 4,
+    "description": "Canadian history, government and global issues.",
+    "prerequisites": [],
+    "access": "public"
+  },
+  {
+    "course_id": "PHE10",
+    "course_name": "Physical and Health Education 10",
+    "grade_level": 10,
+    "teacher_id": "T005",
+    "credits": 4,
+    "description": "Physical activity, health, fitness and personal well-being.",
+    "prerequisites": [],
+    "access": "public"
+  },
+  {
+    "course_id": "CHEM11",
+    "course_name": "Chemistry 11",
+    "grade_level": 11,
+    "teacher_id": "T002",
+    "credits": 4,
+    "description": "Atomic structure, chemical reactions and stoichiometry.",
+    "prerequisites": ["SC10"],
+    "access": "public"
+  },
+  {
+    "course_id": "PREC12",
+    "course_name": "Pre-Calculus 12",
+    "grade_level": 12,
+    "teacher_id": "T003",
+    "credits": 4,
+    "description": "Advanced functions, trigonometry and algebra.",
+    "prerequisites": ["Pre-Calculus 11"],
+    "access": "public"
+  },
+  {
+    "course_id": "COMP11",
+    "course_name": "Computer Programming 11",
+    "grade_level": 11,
+    "teacher_id": "T006",
+    "credits": 4,
+    "description": "Programming fundamentals, algorithms and software development.",
+    "prerequisites": [],
+    "access": "public"
+  }
+]
