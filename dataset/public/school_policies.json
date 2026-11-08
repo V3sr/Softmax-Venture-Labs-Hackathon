@@ -1,0 +1,39 @@
+
+[
+  {
+    "policy_id": "P001",
+    "title": "Attendance",
+    "description": "Students are expected to attend all scheduled classes. Parents or guardians should report absences through the school office.",
+    "access": "public"
+  },
+  {
+    "policy_id": "P002",
+    "title": "Academic Integrity",
+    "description": "Students must submit original work, acknowledge sources and follow teacher instructions regarding collaboration and AI tools.",
+    "access": "public"
+  },
+  {
+    "policy_id": "P003",
+    "title": "Bullying and Harassment",
+    "description": "Bullying, discrimination, harassment and intimidation are prohibited. Students may report concerns to school staff.",
+    "access": "public"
+  },
+  {
+    "policy_id": "P004",
+    "title": "Personal Electronic Devices",
+    "description": "Personal electronic devices may only be used during instructional time when authorized by school staff or permitted for an applicable accommodation.",
+    "access": "public"
+  },
+  {
+    "policy_id": "P005",
+    "title": "Student Privacy",
+    "description": "Student grades, attendance, guardian contacts and other personal records are confidential and accessible only to authorized individuals.",
+    "access": "public"
+  },
+  {
+    "policy_id": "P006",
+    "title": "Course Changes",
+    "description": "Students requesting course changes should contact the counselling office. Changes depend on availability and school approval.",
+    "access": "public"
+  }
+]
