@@ -1,0 +1,59 @@
+
+[
+  {
+    "staff_id": "T001",
+    "name": "Ms. Sarah Mitchell",
+    "position": "English Teacher",
+    "department": "English",
+    "email": "smitchell@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "T002",
+    "name": "Mr. James Patel",
+    "position": "Science Teacher",
+    "department": "Science",
+    "email": "jpatel@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "T003",
+    "name": "Ms. Emily Wong",
+    "position": "Mathematics Teacher",
+    "department": "Mathematics",
+    "email": "ewong@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "T004",
+    "name": "Mr. David Fraser",
+    "position": "Social Studies Teacher",
+    "department": "Social Studies",
+    "email": "dfraser@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "T005",
+    "name": "Ms. Olivia Brooks",
+    "position": "Physical Education Teacher",
+    "department": "Physical and Health Education",
+    "email": "obrooks@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "T006",
+    "name": "Mr. Kevin Li",
+    "position": "Computer Science Teacher",
+    "department": "Applied Design, Skills and Technologies",
+    "email": "kli@cedarvalley.example.test",
+    "access": "public"
+  },
+  {
+    "staff_id": "C001",
+    "name": "Ms. Rachel Adams",
+    "position": "School Counsellor",
+    "department": "Student Services",
+    "email": "radams@cedarvalley.example.test",
+    "access": "public"
+  }
+]
