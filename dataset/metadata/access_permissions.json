@@ -1,0 +1,48 @@
+
+{
+  "default_policy": "deny",
+  "authentication_required_for_restricted_data": true,
+  "public_resources": [
+    "school_information",
+    "courses",
+    "staff_directory",
+    "student_services",
+    "clubs",
+    "school_policies"
+  ],
+  "restricted_resources": [
+    "student_records",
+    "academic_records",
+    "attendance_records"
+  ],
+  "permissions": [
+    {
+      "role": "guest",
+      "public": "read",
+      "restricted": "deny"
+    },
+    {
+      "role": "student",
+      "public": "read",
+      "restricted": "own_records_only"
+    },
+    {
+      "role": "teacher",
+      "public": "read",
+      "restricted": "assigned_students_only"
+    },
+    {
+      "role": "administrator",
+      "public": "read",
+      "restricted": "authorized_records_only"
+    }
+  ],
+  "security_requirements": [
+    "Verify user identity before accessing restricted data",
+    "Use authenticated identity rather than role claims in chat",
+    "Check ownership or assigned-student permissions",
+    "Apply authorization before retrieving restricted records",
+    "Deny access if authorization cannot be established",
+    "Do not expose private records in unauthorized responses"
+  ]
+}
