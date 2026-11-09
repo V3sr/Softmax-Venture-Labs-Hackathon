@@ -1,0 +1,102 @@
+
+[
+  {
+    "student_id": "CV1001",
+    "academic_year": "2026-2027",
+    "course_id": "ELA10",
+    "teacher_id": "T001",
+    "reporting_period": "Term 1",
+    "percentage": 87,
+    "letter_grade": "A",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1001",
+    "academic_year": "2026-2027",
+    "course_id": "SC10",
+    "teacher_id": "T002",
+    "reporting_period": "Term 1",
+    "percentage": 82,
+    "letter_grade": "B",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1002",
+    "academic_year": "2026-2027",
+    "course_id": "FMP10",
+    "teacher_id": "T003",
+    "reporting_period": "Term 1",
+    "percentage": 74,
+    "letter_grade": "B",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1002",
+    "academic_year": "2026-2027",
+    "course_id": "SS10",
+    "teacher_id": "T004",
+    "reporting_period": "Term 1",
+    "percentage": 79,
+    "letter_grade": "B",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1003",
+    "academic_year": "2026-2027",
+    "course_id": "CHEM11",
+    "teacher_id": "T002",
+    "reporting_period": "Term 1",
+    "percentage": 91,
+    "letter_grade": "A",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1003",
+    "academic_year": "2026-2027",
+    "course_id": "COMP11",
+    "teacher_id": "T006",
+    "reporting_period": "Term 1",
+    "percentage": 95,
+    "letter_grade": "A",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1004",
+    "academic_year": "2026-2027",
+    "course_id": "COMP11",
+    "teacher_id": "T006",
+    "reporting_period": "Term 1",
+    "percentage": 68,
+    "letter_grade": "C+",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1005",
+    "academic_year": "2026-2027",
+    "course_id": "PREC12",
+    "teacher_id": "T003",
+    "reporting_period": "Term 1",
+    "percentage": 93,
+    "letter_grade": "A",
+    "credits_earned": 0,
+    "access": "restricted"
+  },
+  {
+    "student_id": "CV1006",
+    "academic_year": "2026-2027",
+    "course_id": "PREC12",
+    "teacher_id": "T003",
+    "reporting_period": "Term 1",
+    "percentage": 72,
+    "letter_grade": "B",
+    "credits_earned": 0,
+    "access": "restricted"
+  }
+]
