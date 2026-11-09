@@ -1,0 +1,41 @@
+
+{
+  "roles": [
+    {
+      "role": "guest",
+      "description": "A user who has not signed in.",
+      "allowed_access": [
+        "Public school information"
+      ]
+    },
+    {
+      "role": "student",
+      "description": "An authenticated enrolled student.",
+      "allowed_access": [
+        "Public school information",
+        "Own student profile",
+        "Own grades",
+        "Own attendance"
+      ]
+    },
+    {
+      "role": "teacher",
+      "description": "An authenticated school teacher.",
+      "allowed_access": [
+        "Public school information",
+        "Grades of assigned students",
+        "Attendance of assigned students"
+      ]
+    },
+    {
+      "role": "administrator",
+      "description": "An authenticated authorized administrator.",
+      "allowed_access": [
+        "Public school information",
+        "Student records within authorized scope",
+        "Academic records within authorized scope",
+        "Attendance records within authorized scope"
+      ]
+    }
+  ]
+}
