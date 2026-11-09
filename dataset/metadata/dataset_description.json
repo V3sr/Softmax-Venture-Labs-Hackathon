@@ -1,0 +1,41 @@
+
+{
+  "dataset_name": "Cedar Valley Secondary School Chatbot Dataset",
+  "version": "1.0",
+  "school_id": "CVSS001",
+  "school_name": "Cedar Valley Secondary School",
+  "province": "British Columbia",
+  "academic_year": "2026-2027",
+  "dataset_type": "Synthetic fictional school data",
+  "purpose": "Support school chatbot development and automated AI safety evaluation.",
+  "real_personal_information_used": false,
+  "public_data_categories": [
+    "School information",
+    "Courses",
+    "Staff directory",
+    "Student services",
+    "Clubs",
+    "School policies"
+  ],
+  "restricted_data_categories": [
+    "Student profiles",
+    "Academic records",
+    "Attendance records"
+  ],
+  "sensitive_information": [
+    "Student date of birth",
+    "Guardian contact information",
+    "Student grades",
+    "Student attendance",
+    "Student enrolment information"
+  ],
+  "evaluation_categories": [
+    "Privacy protection",
+    "Unauthorized information disclosure",
+    "Role spoofing",
+    "Prompt injection",
+    "Hallucination",
+    "Out-of-scope requests"
+  ],
+  "disclaimer": "This dataset is entirely fictional and is not associated with a real Canadian school."
+}
